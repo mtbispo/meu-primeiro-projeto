@@ -1,0 +1,28 @@
+F:\FACULDADE\PAULO\ATIVIDADE APRESENTAÇÃO\AtividadeApresentacao\obj\Debug\net10.0\AtividadeApresentacao.GeneratedMSBuildEditorConfig.editorconfig
+F:\FACULDADE\PAULO\ATIVIDADE APRESENTAÇÃO\AtividadeApresentacao\obj\Debug\net10.0\AtividadeApresentacao.AssemblyInfoInputs.cache
+F:\FACULDADE\PAULO\ATIVIDADE APRESENTAÇÃO\AtividadeApresentacao\obj\Debug\net10.0\AtividadeApresentacao.AssemblyInfo.cs
+F:\FACULDADE\PAULO\ATIVIDADE APRESENTAÇÃO\AtividadeApresentacao\obj\Debug\net10.0\AtividadeApresentacao.csproj.CoreCompileInputs.cache
+F:\FACULDADE\PAULO\ATIVIDADE APRESENTAÇÃO\AtividadeApresentacao\bin\Debug\net10.0\AtividadeApresentacao.exe
+F:\FACULDADE\PAULO\ATIVIDADE APRESENTAÇÃO\AtividadeApresentacao\bin\Debug\net10.0\AtividadeApresentacao.deps.json
+F:\FACULDADE\PAULO\ATIVIDADE APRESENTAÇÃO\AtividadeApresentacao\bin\Debug\net10.0\AtividadeApresentacao.runtimeconfig.json
+F:\FACULDADE\PAULO\ATIVIDADE APRESENTAÇÃO\AtividadeApresentacao\bin\Debug\net10.0\AtividadeApresentacao.dll
+F:\FACULDADE\PAULO\ATIVIDADE APRESENTAÇÃO\AtividadeApresentacao\bin\Debug\net10.0\AtividadeApresentacao.pdb
+F:\FACULDADE\PAULO\ATIVIDADE APRESENTAÇÃO\AtividadeApresentacao\obj\Debug\net10.0\AtividadeApresentacao.dll
+F:\FACULDADE\PAULO\ATIVIDADE APRESENTAÇÃO\AtividadeApresentacao\obj\Debug\net10.0\refint\AtividadeApresentacao.dll
+F:\FACULDADE\PAULO\ATIVIDADE APRESENTAÇÃO\AtividadeApresentacao\obj\Debug\net10.0\AtividadeApresentacao.pdb
+F:\FACULDADE\PAULO\ATIVIDADE APRESENTAÇÃO\AtividadeApresentacao\obj\Debug\net10.0\AtividadeApresentacao.genruntimeconfig.cache
+F:\FACULDADE\PAULO\ATIVIDADE APRESENTAÇÃO\AtividadeApresentacao\obj\Debug\net10.0\ref\AtividadeApresentacao.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\LOGICA DE PROGRAMAÇÃO\AtividadeApresentacao\bin\Debug\net10.0\AtividadeApresentacao.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\LOGICA DE PROGRAMAÇÃO\AtividadeApresentacao\bin\Debug\net10.0\AtividadeApresentacao.deps.json
+C:\Users\mathe\OneDrive\Área de Trabalho\LOGICA DE PROGRAMAÇÃO\AtividadeApresentacao\bin\Debug\net10.0\AtividadeApresentacao.runtimeconfig.json
+C:\Users\mathe\OneDrive\Área de Trabalho\LOGICA DE PROGRAMAÇÃO\AtividadeApresentacao\bin\Debug\net10.0\AtividadeApresentacao.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\LOGICA DE PROGRAMAÇÃO\AtividadeApresentacao\bin\Debug\net10.0\AtividadeApresentacao.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\LOGICA DE PROGRAMAÇÃO\AtividadeApresentacao\obj\Debug\net10.0\AtividadeApresentacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Área de Trabalho\LOGICA DE PROGRAMAÇÃO\AtividadeApresentacao\obj\Debug\net10.0\AtividadeApresentacao.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\LOGICA DE PROGRAMAÇÃO\AtividadeApresentacao\obj\Debug\net10.0\AtividadeApresentacao.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\LOGICA DE PROGRAMAÇÃO\AtividadeApresentacao\obj\Debug\net10.0\AtividadeApresentacao.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\LOGICA DE PROGRAMAÇÃO\AtividadeApresentacao\obj\Debug\net10.0\AtividadeApresentacao.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\LOGICA DE PROGRAMAÇÃO\AtividadeApresentacao\obj\Debug\net10.0\refint\AtividadeApresentacao.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\LOGICA DE PROGRAMAÇÃO\AtividadeApresentacao\obj\Debug\net10.0\AtividadeApresentacao.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\LOGICA DE PROGRAMAÇÃO\AtividadeApresentacao\obj\Debug\net10.0\AtividadeApresentacao.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\LOGICA DE PROGRAMAÇÃO\AtividadeApresentacao\obj\Debug\net10.0\ref\AtividadeApresentacao.dll
